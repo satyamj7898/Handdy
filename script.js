@@ -250,7 +250,7 @@ gsap.to(".rotate-img", {
         start: "center center",
         end: "center 0%",
         scrub: 1.5,
-        markers:true
+        // markers:true//
     },
     top: "-50vh",
     rotate: "720deg",
